@@ -3,8 +3,8 @@
 
 A classic Snake and Ladder game built using HTML, CSS, and JavaScript. This project provides an interactive and fun gameplay experience with dynamic dice rolling, player movement, and automatic detection of snakes and ladders.
 
-Features
 
+Features
 Dice Roll Animation 🎲
 
 2-Player Mode 👥
