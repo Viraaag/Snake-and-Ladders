@@ -6,8 +6,6 @@ A classic Snake and Ladder game built using HTML, CSS, and JavaScript. This proj
 
 Features
 
-Dice Roll Animation 🎲
-
 2-Player Mode 👥
 
 Snakes and Ladders Mechanism 🐍🔼
